@@ -1,0 +1,1162 @@
+{
+  "ai_ready": false,
+  "allowed_feeds": [],
+  "categories": [
+    {
+      "name": "个性化定制"
+    },
+    {
+      "name": "产品功能及新品类"
+    },
+    {
+      "name": "兴趣爱好"
+    },
+    {
+      "name": "图案元素"
+    },
+    {
+      "name": "审美风格"
+    },
+    {
+      "name": "情感关系"
+    },
+    {
+      "name": "流行文化"
+    },
+    {
+      "name": "职业身份"
+    },
+    {
+      "name": "节日及季节"
+    },
+    {
+      "name": "英文短句"
+    }
+  ],
+  "collection_jobs": [
+    {
+      "attempts": 1,
+      "detail": "新增 10 条观测",
+      "id": "ff7d7da9da2a4df5883913644466dbaa",
+      "slot": "2026-11-25T6",
+      "source": "Google Trends",
+      "state": "完成",
+      "touched": "2026-11-25T02:37:29+00:00"
+    },
+    {
+      "attempts": 1,
+      "detail": "2026-11-23 至 2026-11-23，1 条来源记录",
+      "id": "2e7bc3a7fa7f4183984082796a679ee6",
+      "slot": "2026-11-25",
+      "source": "日报",
+      "state": "完成",
+      "touched": "2026-11-25T02:37:29+00:00"
+    },
+    {
+      "attempts": 1,
+      "detail": "新增 10 条观测",
+      "id": "1ac1acf9db5d46b5a9181c71353da601",
+      "slot": "2026-11-25T6",
+      "source": "Folklife Today",
+      "state": "完成",
+      "touched": "2026-11-25T02:37:26+00:00"
+    }
+  ],
+  "data_sources": [
+    {
+      "enabled": 0,
+      "mode": "import",
+      "name": "Etsy",
+      "url": ""
+    },
+    {
+      "enabled": 1,
+      "mode": "rss",
+      "name": "Folklife Today",
+      "url": "https://blogs.loc.gov/folklife/feed/"
+    },
+    {
+      "enabled": 1,
+      "mode": "rss",
+      "name": "Google Trends",
+      "url": "https://trends.google.com/trending/rss?geo=US"
+    },
+    {
+      "enabled": 0,
+      "mode": "import",
+      "name": "Pinterest",
+      "url": ""
+    },
+    {
+      "enabled": 0,
+      "mode": "import",
+      "name": "Reddit",
+      "url": ""
+    },
+    {
+      "enabled": 0,
+      "mode": "import",
+      "name": "TikTok",
+      "url": ""
+    },
+    {
+      "enabled": 0,
+      "mode": "import",
+      "name": "YouTube",
+      "url": ""
+    }
+  ],
+  "favorites": [],
+  "image_relations": [
+    {
+      "image_id": "14933d3fbe849b0341facbbc2f0d9cda5045c3537588072e4542855372cd6a3b",
+      "keyword_id": "ce2b26bf16d54b21ca831e87118286b17fe6afd29723bd96cb33083fd27c598c"
+    },
+    {
+      "image_id": "182e066647af44d8644284d45112328525d7428a772828d14155d21eb712aabc",
+      "keyword_id": "a7aa4b6b4f2f8717977c1992f1bceb7bc8e5ced40a5be0f5587a6172f616e77a"
+    },
+    {
+      "image_id": "340191a87233fdd03790668709c6f10168adc5751d71c24f6730f2a1bbb3015e",
+      "keyword_id": "bfeca24bd70a7db0881d3fa542bf8bdebdbf7e0764f86d278054b55e50c968a8"
+    },
+    {
+      "image_id": "3aff0e5dc6b0d95c7b94a661f6a82751b0762abb843b39c42da766d69c4ebafb",
+      "keyword_id": "2e60751283b90d9bf51c88c9799cf5851c55366012535a35f3eac3528d0e3a26"
+    },
+    {
+      "image_id": "61319dfc8042f2afc5d2caf34ed446618060b0d97e850912bbf67130c8c4585e",
+      "keyword_id": "9459d93c72c909f360ef5bfe0c80b888d978c4aa398f9b10d0a8e7160d8a1bec"
+    },
+    {
+      "image_id": "62cfad80575d9b8726639007cd4cd34595f4cd1f57153992da621aa5ba18d1d0",
+      "keyword_id": "bddb12d4da850edeb1d2b0975acc8275dbdfa108b30dec9a52c770d5f179365d"
+    },
+    {
+      "image_id": "aebac6662ebd97ff4c579adffa00a24248b52b072236741f0c95416dcc129929",
+      "keyword_id": "a8cf553e6bf193cc88c850cb4fe31a9cc217b93a7eabffcb2026e502b0d020c7"
+    },
+    {
+      "image_id": "c0ed8cccf6a7625c7a0955cbde44f9daed0c192f6f3e5e1e0bd56bc4343ee1f5",
+      "keyword_id": "570c270db24d7bb8d93ccb9af1882d560383847664e48db850da3f513d9303df"
+    },
+    {
+      "image_id": "cc81fc5ba069dfb7322cb1c32bf68d87d804a73b523d55ba5bb416e5c9af4ade",
+      "keyword_id": "427b72f68c3a2cc9d29ff40f8771ca2f9dcf36a3f87b04ef3dcc5f63902173f8"
+    },
+    {
+      "image_id": "edf70e086ae24173f93b0086aa1bce5ffcb09ab0557bdbcec86079f3adb2113b",
+      "keyword_id": "9cc53c71566e6ac204749550da7dc63b1bcd214dff56081920c460e2b0bdc917"
+    }
+  ],
+  "images": [
+    {
+      "author": "MLSsoccer.com",
+      "discovered": "2026-11-25T02:37:29+00:00",
+      "features": {},
+      "id": "61319dfc8042f2afc5d2caf34ed446618060b0d97e850912bbf67130c8c4585e",
+      "page": "https://www.mlssoccer.com/playoffs/2026/news/san-jose-earthquakes-enter-uncharted-mls-cup-playoffs-territory",
+      "rights": "仅来源引用 · 商用待核查",
+      "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyc6_En-NDfXybcDg27hSlmAclkO6gGVsa9av8Rj4K57J-uSfurRWqLeXbNJc"
+    },
+    {
+      "author": "Deadline",
+      "discovered": "2026-11-25T02:37:29+00:00",
+      "features": {},
+      "id": "edf70e086ae24173f93b0086aa1bce5ffcb09ab0557bdbcec86079f3adb2113b",
+      "page": "https://deadline.com/2026/11/avengers-doomsday-final-trailer-viewership-record-1237232943/",
+      "rights": "仅来源引用 · 商用待核查",
+      "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSj7NV1lZIJ8HdojdVZpyhQ77iLlB4hfme2HrkpMwaYpba3wVLB1B3NOG5CtD8"
+    },
+    {
+      "author": "Yahoo Sports",
+      "discovered": "2026-11-25T02:37:29+00:00",
+      "features": {},
+      "id": "62cfad80575d9b8726639007cd4cd34595f4cd1f57153992da621aa5ba18d1d0",
+      "page": "https://sports.yahoo.com/articles/penn-state-kennedy-martin-reveals-165819861.html",
+      "rights": "仅来源引用 · 商用待核查",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf14BNscCDzwxP_ygotK1QHRezCa_6ogkJJDAPmlRFIqfPs-ZFAi-5AODqfBQ"
+    },
+    {
+      "author": "MLive.com",
+      "discovered": "2026-11-25T02:37:29+00:00",
+      "features": {},
+      "id": "cc81fc5ba069dfb7322cb1c32bf68d87d804a73b523d55ba5bb416e5c9af4ade",
+      "page": "https://www.mlive.com/pistons/2026/11/only-4-nba-players-have-worn-no-94-heres-why-a-pistons-guard-is-the-latest.html",
+      "rights": "仅来源引用 · 商用待核查",
+      "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrv2Tf2A0j01XvEUQqCZX2a3MYrU3iIgKwpx0CPVjim21F4IdleXj0zaY5C5o"
+    },
+    {
+      "author": "Disney Plus",
+      "discovered": "2026-11-25T02:37:29+00:00",
+      "features": {},
+      "id": "14933d3fbe849b0341facbbc2f0d9cda5045c3537588072e4542855372cd6a3b",
+      "page": "https://www.disneyplus.com/en-gb/explore/articles/only-murders-in-london",
+      "rights": "仅来源引用 · 商用待核查",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIDpLRVmCGphXpYnxKullZCYFwSQHjCWWrCcLK3WWdHqEDmkmTuEbzYcYBG3I"
+    },
+    {
+      "author": "Homes and Gardens",
+      "discovered": "2026-11-25T02:37:29+00:00",
+      "features": {},
+      "id": "182e066647af44d8644284d45112328525d7428a772828d14155d21eb712aabc",
+      "page": "https://www.homesandgardens.com/celebrity-homes/mila-kunis-ashton-kutcher-modern-farmhouse-living-room",
+      "rights": "仅来源引用 · 商用待核查",
+      "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOsYC0QbDGKZAVl1zjaqaYZaqwIpxx0bdNnE6Q96TK-3Ievl6hb2OW32DtUqo"
+    },
+    {
+      "author": "Rotten Tomatoes",
+      "discovered": "2026-11-25T02:37:29+00:00",
+      "features": {},
+      "id": "aebac6662ebd97ff4c579adffa00a24248b52b072236741f0c95416dcc129929",
+      "page": "https://editorial.rottentomatoes.com/article/focker-in-law-first-reviews/",
+      "rights": "仅来源引用 · 商用待核查",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSF5gRWJ1sRyR5md8vf-QNKcuHXJPKR_fl6_1ROPvxDwcHjkrKRC9yDqhgbes"
+    },
+    {
+      "author": "KGW",
+      "discovered": "2026-11-25T02:37:29+00:00",
+      "features": {},
+      "id": "340191a87233fdd03790668709c6f10168adc5751d71c24f6730f2a1bbb3015e",
+      "page": "https://www.kgw.com/article/news/local/north-coast/cannon-beach-man-dog-king-tide-sneaker-wave-wash-swept-video/283-1f021f9a-c050-49e3-b640-253dbf3f7a24",
+      "rights": "仅来源引用 · 商用待核查",
+      "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCT6kXBBnELewSsNkHUzoUCue5tP0P5ELGmQVg4dl-5OyBNeHwfLT7oeTXfOE"
+    },
+    {
+      "author": "Card Chronicle",
+      "discovered": "2026-11-25T02:37:29+00:00",
+      "features": {},
+      "id": "3aff0e5dc6b0d95c7b94a661f6a82751b0762abb843b39c42da766d69c4ebafb",
+      "page": "https://www.cardchronicle.com/basketball/106224/isaac-ellis-out-for-players-era-festival-seth-trimble-will-play",
+      "rights": "仅来源引用 · 商用待核查",
+      "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbbcqdz1IA9G05H4NXoWmogmXk-c4ImOITeuFdwRWlwA2-PGnDNh3V1tC2Up0"
+    },
+    {
+      "author": "Orlando Sentinel",
+      "discovered": "2026-11-25T02:37:29+00:00",
+      "features": {},
+      "id": "c0ed8cccf6a7625c7a0955cbde44f9daed0c192f6f3e5e1e0bd56bc4343ee1f5",
+      "page": "https://www.orlandosentinel.com/2026/11/24/orlando-magic-detroit-pistons-nba-cup-desmond-bane-anthony-black-wendell-carter-franz-wagner-thanksgiving-community-nba-sean-sweeney/",
+      "rights": "仅来源引用 · 商用待核查",
+      "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRPNJZpOSXY7lOzIPEXqaDk-wIOdrGa9TZkSAlNczyL5wVkQagpclPeDwbGhQ"
+    }
+  ],
+  "keywords": [
+    {
+      "analysis": {},
+      "category": "",
+      "first_seen": "2026-11-25T02:37:29+00:00",
+      "id": "9459d93c72c909f360ef5bfe0c80b888d978c4aa398f9b10d0a8e7160d8a1bec",
+      "last_seen": "2026-11-25T02:37:29+00:00",
+      "notes": "",
+      "score": {
+        "confidence": "单来源记录",
+        "coverage": 0,
+        "ip_status": "待核查",
+        "level": "待验证",
+        "points": 0
+      },
+      "series": [
+        {
+          "growth": {
+            "30": null,
+            "365": null,
+            "7": null,
+            "90": null
+          },
+          "market": "US",
+          "period": "热点事件",
+          "points": [
+            {
+              "day": "2026-11-24",
+              "keyword_id": "9459d93c72c909f360ef5bfe0c80b888d978c4aa398f9b10d0a8e7160d8a1bec",
+              "market": "US",
+              "period": "热点事件",
+              "source": "Google Trends",
+              "unit": "近似搜索量下限",
+              "url": "https://www.mlssoccer.com/playoffs/2026/news/san-jose-earthquakes-enter-uncharted-mls-cup-playoffs-territory",
+              "value": 500
+            }
+          ],
+          "source": "Google Trends",
+          "unit": "近似搜索量下限"
+        }
+      ],
+      "status": "新发现",
+      "term": "houston dynamo vs san jose",
+      "translation": ""
+    },
+    {
+      "analysis": {},
+      "category": "",
+      "first_seen": "2026-11-25T02:37:29+00:00",
+      "id": "9cc53c71566e6ac204749550da7dc63b1bcd214dff56081920c460e2b0bdc917",
+      "last_seen": "2026-11-25T02:37:29+00:00",
+      "notes": "",
+      "score": {
+        "confidence": "单来源记录",
+        "coverage": 0,
+        "ip_status": "待核查",
+        "level": "待验证",
+        "points": 0
+      },
+      "series": [
+        {
+          "growth": {
+            "30": null,
+            "365": null,
+            "7": null,
+            "90": null
+          },
+          "market": "US",
+          "period": "热点事件",
+          "points": [
+            {
+              "day": "2026-11-24",
+              "keyword_id": "9cc53c71566e6ac204749550da7dc63b1bcd214dff56081920c460e2b0bdc917",
+              "market": "US",
+              "period": "热点事件",
+              "source": "Google Trends",
+              "unit": "近似搜索量下限",
+              "url": "https://deadline.com/2026/11/avengers-doomsday-final-trailer-viewership-record-1237232943/",
+              "value": 1000
+            }
+          ],
+          "source": "Google Trends",
+          "unit": "近似搜索量下限"
+        }
+      ],
+      "status": "新发现",
+      "term": "fantastic four",
+      "translation": ""
+    },
+    {
+      "analysis": {},
+      "category": "",
+      "first_seen": "2026-11-25T02:37:29+00:00",
+      "id": "bddb12d4da850edeb1d2b0975acc8275dbdfa108b30dec9a52c770d5f179365d",
+      "last_seen": "2026-11-25T02:37:29+00:00",
+      "notes": "",
+      "score": {
+        "confidence": "单来源记录",
+        "coverage": 0,
+        "ip_status": "待核查",
+        "level": "待验证",
+        "points": 0
+      },
+      "series": [
+        {
+          "growth": {
+            "30": null,
+            "365": null,
+            "7": null,
+            "90": null
+          },
+          "market": "US",
+          "period": "热点事件",
+          "points": [
+            {
+              "day": "2026-11-24",
+              "keyword_id": "bddb12d4da850edeb1d2b0975acc8275dbdfa108b30dec9a52c770d5f179365d",
+              "market": "US",
+              "period": "热点事件",
+              "source": "Google Trends",
+              "unit": "近似搜索量下限",
+              "url": "https://sports.yahoo.com/articles/penn-state-kennedy-martin-reveals-165819861.html",
+              "value": 200
+            }
+          ],
+          "source": "Google Trends",
+          "unit": "近似搜索量下限"
+        }
+      ],
+      "status": "新发现",
+      "term": "kennedy martin",
+      "translation": ""
+    },
+    {
+      "analysis": {},
+      "category": "",
+      "first_seen": "2026-11-25T02:37:29+00:00",
+      "id": "427b72f68c3a2cc9d29ff40f8771ca2f9dcf36a3f87b04ef3dcc5f63902173f8",
+      "last_seen": "2026-11-25T02:37:29+00:00",
+      "notes": "",
+      "score": {
+        "confidence": "单来源记录",
+        "coverage": 0,
+        "ip_status": "待核查",
+        "level": "待验证",
+        "points": 0
+      },
+      "series": [
+        {
+          "growth": {
+            "30": null,
+            "365": null,
+            "7": null,
+            "90": null
+          },
+          "market": "US",
+          "period": "热点事件",
+          "points": [
+            {
+              "day": "2026-11-24",
+              "keyword_id": "427b72f68c3a2cc9d29ff40f8771ca2f9dcf36a3f87b04ef3dcc5f63902173f8",
+              "market": "US",
+              "period": "热点事件",
+              "source": "Google Trends",
+              "unit": "近似搜索量下限",
+              "url": "https://www.mlive.com/pistons/2026/11/only-4-nba-players-have-worn-no-94-heres-why-a-pistons-guard-is-the-latest.html",
+              "value": 200
+            }
+          ],
+          "source": "Google Trends",
+          "unit": "近似搜索量下限"
+        }
+      ],
+      "status": "新发现",
+      "term": "elijah harkless",
+      "translation": ""
+    },
+    {
+      "analysis": {},
+      "category": "",
+      "first_seen": "2026-11-25T02:37:29+00:00",
+      "id": "ce2b26bf16d54b21ca831e87118286b17fe6afd29723bd96cb33083fd27c598c",
+      "last_seen": "2026-11-25T02:37:29+00:00",
+      "notes": "",
+      "score": {
+        "confidence": "单来源记录",
+        "coverage": 0,
+        "ip_status": "待核查",
+        "level": "待验证",
+        "points": 0
+      },
+      "series": [
+        {
+          "growth": {
+            "30": null,
+            "365": null,
+            "7": null,
+            "90": null
+          },
+          "market": "US",
+          "period": "热点事件",
+          "points": [
+            {
+              "day": "2026-11-24",
+              "keyword_id": "ce2b26bf16d54b21ca831e87118286b17fe6afd29723bd96cb33083fd27c598c",
+              "market": "US",
+              "period": "热点事件",
+              "source": "Google Trends",
+              "unit": "近似搜索量下限",
+              "url": "https://www.disneyplus.com/en-gb/explore/articles/only-murders-in-london",
+              "value": 200
+            }
+          ],
+          "source": "Google Trends",
+          "unit": "近似搜索量下限"
+        }
+      ],
+      "status": "新发现",
+      "term": "only murders in the building",
+      "translation": ""
+    },
+    {
+      "analysis": {},
+      "category": "",
+      "first_seen": "2026-11-25T02:37:29+00:00",
+      "id": "a7aa4b6b4f2f8717977c1992f1bceb7bc8e5ced40a5be0f5587a6172f616e77a",
+      "last_seen": "2026-11-25T02:37:29+00:00",
+      "notes": "",
+      "score": {
+        "confidence": "单来源记录",
+        "coverage": 0,
+        "ip_status": "待核查",
+        "level": "待验证",
+        "points": 0
+      },
+      "series": [
+        {
+          "growth": {
+            "30": null,
+            "365": null,
+            "7": null,
+            "90": null
+          },
+          "market": "US",
+          "period": "热点事件",
+          "points": [
+            {
+              "day": "2026-11-24",
+              "keyword_id": "a7aa4b6b4f2f8717977c1992f1bceb7bc8e5ced40a5be0f5587a6172f616e77a",
+              "market": "US",
+              "period": "热点事件",
+              "source": "Google Trends",
+              "unit": "近似搜索量下限",
+              "url": "https://www.homesandgardens.com/celebrity-homes/mila-kunis-ashton-kutcher-modern-farmhouse-living-room",
+              "value": 200
+            }
+          ],
+          "source": "Google Trends",
+          "unit": "近似搜索量下限"
+        }
+      ],
+      "status": "新发现",
+      "term": "mila kunis",
+      "translation": ""
+    },
+    {
+      "analysis": {},
+      "category": "",
+      "first_seen": "2026-11-25T02:37:29+00:00",
+      "id": "a8cf553e6bf193cc88c850cb4fe31a9cc217b93a7eabffcb2026e502b0d020c7",
+      "last_seen": "2026-11-25T02:37:29+00:00",
+      "notes": "",
+      "score": {
+        "confidence": "单来源记录",
+        "coverage": 0,
+        "ip_status": "待核查",
+        "level": "待验证",
+        "points": 0
+      },
+      "series": [
+        {
+          "growth": {
+            "30": null,
+            "365": null,
+            "7": null,
+            "90": null
+          },
+          "market": "US",
+          "period": "热点事件",
+          "points": [
+            {
+              "day": "2026-11-24",
+              "keyword_id": "a8cf553e6bf193cc88c850cb4fe31a9cc217b93a7eabffcb2026e502b0d020c7",
+              "market": "US",
+              "period": "热点事件",
+              "source": "Google Trends",
+              "unit": "近似搜索量下限",
+              "url": "https://editorial.rottentomatoes.com/article/focker-in-law-first-reviews/",
+              "value": 5000
+            }
+          ],
+          "source": "Google Trends",
+          "unit": "近似搜索量下限"
+        }
+      ],
+      "status": "新发现",
+      "term": "focker in law cast",
+      "translation": ""
+    },
+    {
+      "analysis": {},
+      "category": "",
+      "first_seen": "2026-11-25T02:37:29+00:00",
+      "id": "bfeca24bd70a7db0881d3fa542bf8bdebdbf7e0764f86d278054b55e50c968a8",
+      "last_seen": "2026-11-25T02:37:29+00:00",
+      "notes": "",
+      "score": {
+        "confidence": "单来源记录",
+        "coverage": 0,
+        "ip_status": "待核查",
+        "level": "待验证",
+        "points": 0
+      },
+      "series": [
+        {
+          "growth": {
+            "30": null,
+            "365": null,
+            "7": null,
+            "90": null
+          },
+          "market": "US",
+          "period": "热点事件",
+          "points": [
+            {
+              "day": "2026-11-24",
+              "keyword_id": "bfeca24bd70a7db0881d3fa542bf8bdebdbf7e0764f86d278054b55e50c968a8",
+              "market": "US",
+              "period": "热点事件",
+              "source": "Google Trends",
+              "unit": "近似搜索量下限",
+              "url": "https://www.kgw.com/article/news/local/north-coast/cannon-beach-man-dog-king-tide-sneaker-wave-wash-swept-video/283-1f021f9a-c050-49e3-b640-253dbf3f7a24",
+              "value": 1000
+            }
+          ],
+          "source": "Google Trends",
+          "unit": "近似搜索量下限"
+        }
+      ],
+      "status": "新发现",
+      "term": "oregon",
+      "translation": ""
+    },
+    {
+      "analysis": {},
+      "category": "",
+      "first_seen": "2026-11-25T02:37:29+00:00",
+      "id": "2e60751283b90d9bf51c88c9799cf5851c55366012535a35f3eac3528d0e3a26",
+      "last_seen": "2026-11-25T02:37:29+00:00",
+      "notes": "",
+      "score": {
+        "confidence": "单来源记录",
+        "coverage": 0,
+        "ip_status": "待核查",
+        "level": "待验证",
+        "points": 0
+      },
+      "series": [
+        {
+          "growth": {
+            "30": null,
+            "365": null,
+            "7": null,
+            "90": null
+          },
+          "market": "US",
+          "period": "热点事件",
+          "points": [
+            {
+              "day": "2026-11-24",
+              "keyword_id": "2e60751283b90d9bf51c88c9799cf5851c55366012535a35f3eac3528d0e3a26",
+              "market": "US",
+              "period": "热点事件",
+              "source": "Google Trends",
+              "unit": "近似搜索量下限",
+              "url": "https://www.cardchronicle.com/basketball/106224/isaac-ellis-out-for-players-era-festival-seth-trimble-will-play",
+              "value": 500
+            }
+          ],
+          "source": "Google Trends",
+          "unit": "近似搜索量下限"
+        }
+      ],
+      "status": "新发现",
+      "term": "seth trimble",
+      "translation": ""
+    },
+    {
+      "analysis": {},
+      "category": "",
+      "first_seen": "2026-11-25T02:37:29+00:00",
+      "id": "570c270db24d7bb8d93ccb9af1882d560383847664e48db850da3f513d9303df",
+      "last_seen": "2026-11-25T02:37:29+00:00",
+      "notes": "",
+      "score": {
+        "confidence": "单来源记录",
+        "coverage": 0,
+        "ip_status": "待核查",
+        "level": "待验证",
+        "points": 0
+      },
+      "series": [
+        {
+          "growth": {
+            "30": null,
+            "365": null,
+            "7": null,
+            "90": null
+          },
+          "market": "US",
+          "period": "热点事件",
+          "points": [
+            {
+              "day": "2026-11-24",
+              "keyword_id": "570c270db24d7bb8d93ccb9af1882d560383847664e48db850da3f513d9303df",
+              "market": "US",
+              "period": "热点事件",
+              "source": "Google Trends",
+              "unit": "近似搜索量下限",
+              "url": "https://www.orlandosentinel.com/2026/11/24/orlando-magic-detroit-pistons-nba-cup-desmond-bane-anthony-black-wendell-carter-franz-wagner-thanksgiving-community-nba-sean-sweeney/",
+              "value": 500
+            }
+          ],
+          "source": "Google Trends",
+          "unit": "近似搜索量下限"
+        }
+      ],
+      "status": "新发现",
+      "term": "anthony black",
+      "translation": ""
+    },
+    {
+      "analysis": {},
+      "category": "",
+      "first_seen": "2026-11-25T02:37:26+00:00",
+      "id": "f08edeaaddaf67dc70ee4d3a4837e66f659b9090b4d641ecc26b7025ec085020",
+      "last_seen": "2026-11-25T02:37:26+00:00",
+      "notes": "",
+      "score": {
+        "confidence": "单来源记录",
+        "coverage": 0,
+        "ip_status": "待核查",
+        "level": "待验证",
+        "points": 0
+      },
+      "series": [
+        {
+          "growth": {
+            "30": null,
+            "365": null,
+            "7": null,
+            "90": null
+          },
+          "market": "US",
+          "period": "文章",
+          "points": [
+            {
+              "day": "2026-11-23",
+              "keyword_id": "f08edeaaddaf67dc70ee4d3a4837e66f659b9090b4d641ecc26b7025ec085020",
+              "market": "US",
+              "period": "文章",
+              "source": "Folklife Today",
+              "unit": "内容记录",
+              "url": "https://blogs.loc.gov/folklife/2026/11/collection-spotlight-jimmy-dean-caldwells-homemade-dominoes/",
+              "value": null
+            }
+          ],
+          "source": "Folklife Today",
+          "unit": "内容记录"
+        }
+      ],
+      "status": "新发现",
+      "term": "Collection Spotlight: Jimmy Dean Caldwell’s Homemade Dominoes",
+      "translation": ""
+    },
+    {
+      "analysis": {},
+      "category": "",
+      "first_seen": "2026-11-25T02:37:26+00:00",
+      "id": "2c00f3c3078369bf6df2cae594d30abb32b20e3eafe1a6dc4ee0d1155b517801",
+      "last_seen": "2026-11-25T02:37:26+00:00",
+      "notes": "",
+      "score": {
+        "confidence": "单来源记录",
+        "coverage": 0,
+        "ip_status": "待核查",
+        "level": "待验证",
+        "points": 0
+      },
+      "series": [
+        {
+          "growth": {
+            "30": null,
+            "365": null,
+            "7": null,
+            "90": null
+          },
+          "market": "US",
+          "period": "文章",
+          "points": [
+            {
+              "day": "2026-11-20",
+              "keyword_id": "2c00f3c3078369bf6df2cae594d30abb32b20e3eafe1a6dc4ee0d1155b517801",
+              "market": "US",
+              "period": "文章",
+              "source": "Folklife Today",
+              "unit": "内容记录",
+              "url": "https://blogs.loc.gov/folklife/2026/11/origins-of-uncle-sam-part-4-recruitment-and-patriotism/",
+              "value": null
+            }
+          ],
+          "source": "Folklife Today",
+          "unit": "内容记录"
+        }
+      ],
+      "status": "新发现",
+      "term": "Origins of Uncle Sam Part 4: Recruitment and Patriotism",
+      "translation": ""
+    },
+    {
+      "analysis": {},
+      "category": "",
+      "first_seen": "2026-11-25T02:37:26+00:00",
+      "id": "738aa8e86fd59d39a2fdfc6760f394ee8593acfd7a6f831c79fcef32f3b8e36a",
+      "last_seen": "2026-11-25T02:37:26+00:00",
+      "notes": "",
+      "score": {
+        "confidence": "单来源记录",
+        "coverage": 0,
+        "ip_status": "待核查",
+        "level": "待验证",
+        "points": 0
+      },
+      "series": [
+        {
+          "growth": {
+            "30": null,
+            "365": null,
+            "7": null,
+            "90": null
+          },
+          "market": "US",
+          "period": "文章",
+          "points": [
+            {
+              "day": "2026-11-09",
+              "keyword_id": "738aa8e86fd59d39a2fdfc6760f394ee8593acfd7a6f831c79fcef32f3b8e36a",
+              "market": "US",
+              "period": "文章",
+              "source": "Folklife Today",
+              "unit": "内容记录",
+              "url": "https://blogs.loc.gov/folklife/2026/11/yes-chef-veterans-history-project-highlights-military-food-service/",
+              "value": null
+            }
+          ],
+          "source": "Folklife Today",
+          "unit": "内容记录"
+        }
+      ],
+      "status": "新发现",
+      "term": "Yes, Chef! Veterans History Project Highlights Military Food Service",
+      "translation": ""
+    },
+    {
+      "analysis": {},
+      "category": "",
+      "first_seen": "2026-11-25T02:37:26+00:00",
+      "id": "78e8013e2347b93dd20c6097cb5df231fd43791070a845011cf11163ee4e298a",
+      "last_seen": "2026-11-25T02:37:26+00:00",
+      "notes": "",
+      "score": {
+        "confidence": "单来源记录",
+        "coverage": 0,
+        "ip_status": "待核查",
+        "level": "待验证",
+        "points": 0
+      },
+      "series": [
+        {
+          "growth": {
+            "30": null,
+            "365": null,
+            "7": null,
+            "90": null
+          },
+          "market": "US",
+          "period": "文章",
+          "points": [
+            {
+              "day": "2026-11-06",
+              "keyword_id": "78e8013e2347b93dd20c6097cb5df231fd43791070a845011cf11163ee4e298a",
+              "market": "US",
+              "period": "文章",
+              "source": "Folklife Today",
+              "unit": "内容记录",
+              "url": "https://blogs.loc.gov/folklife/2026/11/cooking-with-the-archive-milky-way-cake-from-the-coal-river-folklife-project/",
+              "value": null
+            }
+          ],
+          "source": "Folklife Today",
+          "unit": "内容记录"
+        }
+      ],
+      "status": "新发现",
+      "term": "Cooking with the Archive: Milky Way Cake from the Coal River Folklife Project",
+      "translation": ""
+    },
+    {
+      "analysis": {},
+      "category": "",
+      "first_seen": "2026-11-25T02:37:26+00:00",
+      "id": "2b17f821067d06fd4c56e7df9434b661014fc9104f0e2ee896e6077ca2d0af9b",
+      "last_seen": "2026-11-25T02:37:26+00:00",
+      "notes": "",
+      "score": {
+        "confidence": "单来源记录",
+        "coverage": 0,
+        "ip_status": "待核查",
+        "level": "待验证",
+        "points": 0
+      },
+      "series": [
+        {
+          "growth": {
+            "30": null,
+            "365": null,
+            "7": null,
+            "90": null
+          },
+          "market": "US",
+          "period": "文章",
+          "points": [
+            {
+              "day": "2026-11-03",
+              "keyword_id": "2b17f821067d06fd4c56e7df9434b661014fc9104f0e2ee896e6077ca2d0af9b",
+              "market": "US",
+              "period": "文章",
+              "source": "Folklife Today",
+              "unit": "内容记录",
+              "url": "https://blogs.loc.gov/folklife/2026/11/serving-through-crisis-reflections-on-frontline-risk-and-service-during-covid-19/",
+              "value": null
+            }
+          ],
+          "source": "Folklife Today",
+          "unit": "内容记录"
+        }
+      ],
+      "status": "新发现",
+      "term": "Serving Through Crisis: Reflections on Frontline Risk and Service During COVID-19",
+      "translation": ""
+    },
+    {
+      "analysis": {},
+      "category": "",
+      "first_seen": "2026-11-25T02:37:26+00:00",
+      "id": "7d1dfe768d9118c7c42b708b5c193c8f3e751f1f2cfab7b7e4345a825eb62350",
+      "last_seen": "2026-11-25T02:37:26+00:00",
+      "notes": "",
+      "score": {
+        "confidence": "单来源记录",
+        "coverage": 0,
+        "ip_status": "待核查",
+        "level": "待验证",
+        "points": 0
+      },
+      "series": [
+        {
+          "growth": {
+            "30": null,
+            "365": null,
+            "7": null,
+            "90": null
+          },
+          "market": "US",
+          "period": "文章",
+          "points": [
+            {
+              "day": "2026-11-02",
+              "keyword_id": "7d1dfe768d9118c7c42b708b5c193c8f3e751f1f2cfab7b7e4345a825eb62350",
+              "market": "US",
+              "period": "文章",
+              "source": "Folklife Today",
+              "unit": "内容记录",
+              "url": "https://blogs.loc.gov/folklife/2026/11/afc-at-50-folklife-and-place/",
+              "value": null
+            }
+          ],
+          "source": "Folklife Today",
+          "unit": "内容记录"
+        }
+      ],
+      "status": "新发现",
+      "term": "AFC at 50: Folklife and Place",
+      "translation": ""
+    },
+    {
+      "analysis": {},
+      "category": "",
+      "first_seen": "2026-11-25T02:37:26+00:00",
+      "id": "dac74c7ee037576b00b029b352c7b676dfce1ee92e06cca69bef8847c6d08c5f",
+      "last_seen": "2026-11-25T02:37:26+00:00",
+      "notes": "",
+      "score": {
+        "confidence": "单来源记录",
+        "coverage": 0,
+        "ip_status": "待核查",
+        "level": "待验证",
+        "points": 0
+      },
+      "series": [
+        {
+          "growth": {
+            "30": null,
+            "365": null,
+            "7": null,
+            "90": null
+          },
+          "market": "US",
+          "period": "文章",
+          "points": [
+            {
+              "day": "2026-11-24",
+              "keyword_id": "dac74c7ee037576b00b029b352c7b676dfce1ee92e06cca69bef8847c6d08c5f",
+              "market": "US",
+              "period": "文章",
+              "source": "Folklife Today",
+              "unit": "内容记录",
+              "url": "https://blogs.loc.gov/folklife/2026/10/more-scary-sea-songs-on-the-folklife-today-podcast/",
+              "value": null
+            }
+          ],
+          "source": "Folklife Today",
+          "unit": "内容记录"
+        }
+      ],
+      "status": "新发现",
+      "term": "More Scary Sea Songs on the Folklife Today Podcast",
+      "translation": ""
+    },
+    {
+      "analysis": {},
+      "category": "",
+      "first_seen": "2026-11-25T02:37:26+00:00",
+      "id": "83d6eaf31c85bfb02c381d79deb2d0e99024bc8068dfd5a382baf2740892e1c4",
+      "last_seen": "2026-11-25T02:37:26+00:00",
+      "notes": "",
+      "score": {
+        "confidence": "单来源记录",
+        "coverage": 0,
+        "ip_status": "待核查",
+        "level": "待验证",
+        "points": 0
+      },
+      "series": [
+        {
+          "growth": {
+            "30": null,
+            "365": null,
+            "7": null,
+            "90": null
+          },
+          "market": "US",
+          "period": "文章",
+          "points": [
+            {
+              "day": "2026-10-28",
+              "keyword_id": "83d6eaf31c85bfb02c381d79deb2d0e99024bc8068dfd5a382baf2740892e1c4",
+              "market": "US",
+              "period": "文章",
+              "source": "Folklife Today",
+              "unit": "内容记录",
+              "url": "https://blogs.loc.gov/folklife/2026/10/the-2026-awardees-of-the-archie-green-cultural-documentation-program/",
+              "value": null
+            }
+          ],
+          "source": "Folklife Today",
+          "unit": "内容记录"
+        }
+      ],
+      "status": "新发现",
+      "term": "The 2026 Awardees of the Archie Green Cultural Documentation Program",
+      "translation": ""
+    },
+    {
+      "analysis": {},
+      "category": "",
+      "first_seen": "2026-11-25T02:37:26+00:00",
+      "id": "25d9291cf4ffe0d75a0e8d15991d4f955040cce6c8b0b8932ba4c74a0cbc57d4",
+      "last_seen": "2026-11-25T02:37:26+00:00",
+      "notes": "",
+      "score": {
+        "confidence": "单来源记录",
+        "coverage": 0,
+        "ip_status": "待核查",
+        "level": "待验证",
+        "points": 0
+      },
+      "series": [
+        {
+          "growth": {
+            "30": null,
+            "365": null,
+            "7": null,
+            "90": null
+          },
+          "market": "US",
+          "period": "文章",
+          "points": [
+            {
+              "day": "2026-10-26",
+              "keyword_id": "25d9291cf4ffe0d75a0e8d15991d4f955040cce6c8b0b8932ba4c74a0cbc57d4",
+              "market": "US",
+              "period": "文章",
+              "source": "Folklife Today",
+              "unit": "内容记录",
+              "url": "https://blogs.loc.gov/folklife/2026/10/scary-sea-songs-for-halloween-2026/",
+              "value": null
+            }
+          ],
+          "source": "Folklife Today",
+          "unit": "内容记录"
+        }
+      ],
+      "status": "新发现",
+      "term": "Scary Sea Songs for Halloween 2026",
+      "translation": ""
+    },
+    {
+      "analysis": {},
+      "category": "",
+      "first_seen": "2026-11-25T02:37:26+00:00",
+      "id": "8cd09bf4057db3651bb87a7c4abb88b086302553ea4cdcad0161c6bfda6b7689",
+      "last_seen": "2026-11-25T02:37:26+00:00",
+      "notes": "",
+      "score": {
+        "confidence": "单来源记录",
+        "coverage": 0,
+        "ip_status": "待核查",
+        "level": "待验证",
+        "points": 0
+      },
+      "series": [
+        {
+          "growth": {
+            "30": null,
+            "365": null,
+            "7": null,
+            "90": null
+          },
+          "market": "US",
+          "period": "文章",
+          "points": [
+            {
+              "day": "2026-10-23",
+              "keyword_id": "8cd09bf4057db3651bb87a7c4abb88b086302553ea4cdcad0161c6bfda6b7689",
+              "market": "US",
+              "period": "文章",
+              "source": "Folklife Today",
+              "unit": "内容记录",
+              "url": "https://blogs.loc.gov/folklife/2026/10/afc-at-50-exhibit-foodways/",
+              "value": null
+            }
+          ],
+          "source": "Folklife Today",
+          "unit": "内容记录"
+        }
+      ],
+      "status": "新发现",
+      "term": "AFC at 50 Exhibit: Foodways",
+      "translation": ""
+    }
+  ],
+  "market_day": "2026-11-24",
+  "opportunities": [],
+  "phrases": [],
+  "products": [],
+  "project_assets": [],
+  "project_history": [],
+  "projects": [],
+  "reports": [
+    {
+      "content": "{\"start\": \"2026-11-23\", \"end\": \"2026-11-23\", \"market\": \"US · America/New_York\", \"observations\": [{\"term\": \"Collection Spotlight: Jimmy Dean Caldwell’s Homemade Dominoes\", \"source\": \"Folklife Today\", \"url\": \"https://blogs.loc.gov/folklife/2026/11/collection-spotlight-jimmy-dean-caldwells-homemade-dominoes/\", \"day\": \"2026-11-23\"}], \"phrases\": [], \"ideas\": [], \"summary\": \"\"}",
+      "day": "2026-11-23",
+      "generated": "2026-11-25T02:37:29+00:00",
+      "id": "209842cbd25be0f70295246195529a1471a5f7f2bd3dbe3d9af2003c71d0456d",
+      "kind": "日报"
+    }
+  ],
+  "reviews": {},
+  "settings": {
+    "initialized": "1"
+  },
+  "statuses": [
+    "新发现",
+    "待评估",
+    "持续观察",
+    "已收藏",
+    "确认开发",
+    "设计中",
+    "打样中",
+    "已完成设计",
+    "已上架",
+    "测试中",
+    "测试成功",
+    "暂停开发",
+    "不开发"
+  ],
+  "watchlists": []
+}
