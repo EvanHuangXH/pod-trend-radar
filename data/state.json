@@ -35,6 +35,94 @@
   ],
   "collection_jobs": [
     {
+      "attempts": 3,
+      "detail": "Invalid redirect value, must be one of \"follow\" or \"manual\" (\"error\" won't be implemented since it does not make sense at the edge; use \"manual\" and check the response status code).",
+      "id": "aa942f1a-3fe9-49eb-a121-23ed55bb9b8f",
+      "source": "Google Trends",
+      "state": "失败",
+      "touched": "2026-11-26T09:54:47.361Z"
+    },
+    {
+      "attempts": 3,
+      "detail": "Invalid redirect value, must be one of \"follow\" or \"manual\" (\"error\" won't be implemented since it does not make sense at the edge; use \"manual\" and check the response status code).",
+      "id": "552a0766-0e65-4ba9-a993-4b5ee253ec2d",
+      "source": "Folklife Today",
+      "state": "失败",
+      "touched": "2026-11-26T09:54:46.689Z"
+    },
+    {
+      "attempts": 3,
+      "detail": "Invalid redirect value, must be one of \"follow\" or \"manual\" (\"error\" won't be implemented since it does not make sense at the edge; use \"manual\" and check the response status code).",
+      "id": "c43cd912-26ea-43d9-b01f-3c99cfc7e2e2",
+      "source": "Google Trends",
+      "state": "失败",
+      "touched": "2026-11-26T09:54:43.851Z"
+    },
+    {
+      "attempts": 3,
+      "detail": "Invalid redirect value, must be one of \"follow\" or \"manual\" (\"error\" won't be implemented since it does not make sense at the edge; use \"manual\" and check the response status code).",
+      "id": "690316cb-7e7e-423d-a7c9-aa376000f14e",
+      "source": "Folklife Today",
+      "state": "失败",
+      "touched": "2026-11-26T09:54:43.342Z"
+    },
+    {
+      "attempts": 3,
+      "detail": "Invalid redirect value, must be one of \"follow\" or \"manual\" (\"error\" won't be implemented since it does not make sense at the edge; use \"manual\" and check the response status code).",
+      "id": "28d7b791-a865-4f8b-af5e-b8bb073aac87",
+      "source": "Google Trends",
+      "state": "失败",
+      "touched": "2026-11-26T09:54:42.853Z"
+    },
+    {
+      "attempts": 3,
+      "detail": "Invalid redirect value, must be one of \"follow\" or \"manual\" (\"error\" won't be implemented since it does not make sense at the edge; use \"manual\" and check the response status code).",
+      "id": "015b5dc6-60d4-4e83-a5dc-719819f53efa",
+      "source": "Folklife Today",
+      "state": "失败",
+      "touched": "2026-11-26T09:54:42.140Z"
+    },
+    {
+      "attempts": 3,
+      "detail": "Invalid redirect value, must be one of \"follow\" or \"manual\" (\"error\" won't be implemented since it does not make sense at the edge; use \"manual\" and check the response status code).",
+      "id": "6a594ee9-1147-488e-b4e1-821f4a90d824",
+      "source": "Google Trends",
+      "state": "失败",
+      "touched": "2026-11-26T09:54:17.104Z"
+    },
+    {
+      "attempts": 3,
+      "detail": "Invalid redirect value, must be one of \"follow\" or \"manual\" (\"error\" won't be implemented since it does not make sense at the edge; use \"manual\" and check the response status code).",
+      "id": "f4ff8b18-64f3-4f87-9196-d84466359cc4",
+      "source": "Folklife Today",
+      "state": "失败",
+      "touched": "2026-11-26T09:54:16.500Z"
+    },
+    {
+      "attempts": 3,
+      "detail": "Invalid redirect value, must be one of \"follow\" or \"manual\" (\"error\" won't be implemented since it does not make sense at the edge; use \"manual\" and check the response status code).",
+      "id": "53efb565-808b-4b03-8105-ea9756202827",
+      "source": "Google Trends",
+      "state": "失败",
+      "touched": "2026-11-26T09:54:15.489Z"
+    },
+    {
+      "attempts": 3,
+      "detail": "Invalid redirect value, must be one of \"follow\" or \"manual\" (\"error\" won't be implemented since it does not make sense at the edge; use \"manual\" and check the response status code).",
+      "id": "cc18dda3-462b-49de-aa63-65e979ebcfd0",
+      "source": "Folklife Today",
+      "state": "失败",
+      "touched": "2026-11-26T09:54:14.689Z"
+    },
+    {
+      "attempts": 3,
+      "detail": "Invalid redirect value, must be one of \"follow\" or \"manual\" (\"error\" won't be implemented since it does not make sense at the edge; use \"manual\" and check the response status code).",
+      "id": "ba1243ef-bcb5-4ce7-b737-aa7f9c50be39",
+      "source": "Google Trends",
+      "state": "失败",
+      "touched": "2026-11-25T09:01:19.844Z"
+    },
+    {
       "attempts": 1,
       "detail": "新增 10 条观测",
       "id": "ff7d7da9da2a4df5883913644466dbaa",
@@ -1123,7 +1211,7 @@
       "translation": ""
     }
   ],
-  "market_day": "2026-11-25",
+  "market_day": "2026-11-26",
   "opportunities": [],
   "phrases": [],
   "products": [],
@@ -1142,6 +1230,15 @@
   "reviews": {},
   "settings": {
     "initialized": "1"
+  },
+  "snapshot": {
+    "added": 1688,
+    "baseline": "2026-11-25",
+    "day": "2026-11-26",
+    "multi": 1514,
+    "weeklyDay": "2026-11-25",
+    "weeklyGroups": 3066,
+    "weeklyTerms": 8841
   },
   "statuses": [
     "新发现",
